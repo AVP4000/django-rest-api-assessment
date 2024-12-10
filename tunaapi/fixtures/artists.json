@@ -1,0 +1,29 @@
+[
+    {
+        "model": "tunaapi.artist",
+        "pk": 1,
+        "fields": {
+            "name": "Art 1.0",
+            "age": 19,
+            "bio": "I wish I could sing"
+        }
+    },
+    {
+        "model": "tunaapi.artist",
+        "pk": 2,
+        "fields": {
+            "name": "Arty 2.0",
+            "age": 29,
+            "bio": "i can sing but I cant dance"
+        }
+    },
+      {
+        "model": "tunaapi.artist",
+        "pk": 3,
+        "fields": {
+            "name": "Arty 3.0",
+            "age": 39,
+            "bio": "i can dance but now I cant sing anymore"
+        }
+    }
+  ]

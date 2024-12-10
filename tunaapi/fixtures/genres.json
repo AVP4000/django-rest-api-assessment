@@ -1,0 +1,23 @@
+[
+    {
+        "model": "tunaapi.genre",
+        "pk": 1,
+        "fields": {
+            "description": "jazz"
+        }
+    },
+    {
+        "model": "tunaapi.genre",
+        "pk": 2,
+        "fields": {
+            "description": "not jazz"
+        }
+    },
+    {
+        "model": "tunaapi.genre",
+        "pk": 3,
+        "fields": {
+            "description": "jazzy jazz"
+        }
+    }
+  ]
