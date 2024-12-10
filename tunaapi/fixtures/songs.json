@@ -1,0 +1,32 @@
+[
+    {
+        "model": "tunaapi.song",
+        "pk": 1,
+        "fields": {
+            "title": "You dont know jazz",
+            "artist_id": 1,
+            "album": "Jazzy",
+            "length": 11
+        }
+    },
+    {
+        "model": "tunaapi.song",
+        "pk": 2,
+        "fields": {
+            "title": "Not Jazz enough",
+            "artist_id": 2,
+            "album": "Too much Jazz for you",
+            "length": 22
+        }
+    },
+    {
+        "model": "tunaapi.song",
+        "pk": 3,
+        "fields": {
+            "title": "Jazz to the Max",
+            "artist_id": 3,
+            "album": "Cant listen to Jazz anymore",
+            "length": 33
+        }
+    }
+  ]
